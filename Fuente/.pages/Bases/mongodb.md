@@ -18,3 +18,4 @@ When you run `railway run` in a project with the MongoDB database service instal
 ## Image
 
 The MongoDB database service uses the [mongo:4.4](https://hub.docker.com/_/mongo) docker image.
+mongodb+srv://juanrmal:Nayara.30@cluster0.vzljgum.mongodb.net/?retryWrites=true&w=majority
